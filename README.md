@@ -21,3 +21,7 @@ In this challenge you will have available a dataset with about 40 million instan
 </p>
 
 (*) For privacy reasons, the data for this competition was obtained by post-processing a publicly available dataset with several characteristics in common with the type of data that Feedzai processes daily.
+
+## Resources
+
+Challenge link: https://www.kaggle.com/c/feedzai-s-catch-the-fraudster/overview
