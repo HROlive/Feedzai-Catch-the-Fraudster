@@ -1,6 +1,4 @@
-# Feedzai
-
-## Catch the Fraudster!
+# Feedzai "Catch the Fraudster!"
 
 <p align="center">
   <img src="images/logo.png" width=600>
