@@ -1,14 +1,14 @@
 # Feedzai "Catch the Fraudster!"
 
-<p align="center">
-  <img src="images/presentation.jpg" width=700>
-</p>
-
 ## Context
 
 In Feedzai's challenge “Catch the Fraudster!” we had the chance to take the lead as a Data Scientist fighting fraud! On a daily basis at Feedzai, predictive models process millions of transactions for large banks and online merchants. These models are generated with historical data using the latest Machine Learning/Artificial Intelligence techniques.
 
 I got 2nd place in this competition, which allowed me to do a presentation of my work to Feedzai's Data Science teams from Porto and Lisbon offices.
+
+<p align="center">
+  <img src="images/presentation.jpg" width=700>
+</p>
 
 ## Details
 
