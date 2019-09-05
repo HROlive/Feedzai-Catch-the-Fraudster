@@ -1,7 +1,7 @@
 # Feedzai "Catch the Fraudster!"
 
 <p align="center">
-  <img src="images/logo.png" width=600>
+  <img src="images/presentation.jpg">
 </p>
 
 ## Context
